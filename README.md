@@ -1,2 +1,5 @@
-# aprendiz_eterno
+# Aprendiz Eterno
 Notas, apuntes y ensayos sobre la concepción del saber y conocimiento humanos, y su proceso de variación evolutiva enmarcado en la complejidad de las sociedades humanas a través de la historia.
+
+# A modo de introducción
+Tendemos a comprender la historia y desarrollo del conocimiento centrada en grandes hitos y personajes que darían lugar a los cambios paradigmáticos que planteara Kuhn (o al menos lo que se ha entendido como tal ignorando las matizaciones del "segundo Kuhn"). Yo  veo más bien que el saber y conocimiento humano, considerando toda disciplina posible, son un ente vivo que emerge de la unión e interacción entre los distintos agentes que históricamente lo han conformado y perfilado. En una combinación de pluralidades intelectivas en las que todo pasado afecta necesariamente a nuestro presente, que se ve a su vez afectado por la complejidad del sistema en que tiene lugar en una constante retroalimentación de sistemas (complejo cada uno a su vez) de los infinitos aprendices que componemos la especie humana. Sería pues el "SER HUMANO", que como digo es el resultado emergente de todo humano habido y por haber en la historia, el aprendiz eterno que no deja de cuestionarse todo aquello que sabe, o que cree saber.
