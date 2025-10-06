@@ -17,7 +17,7 @@ Fue durante el primer año de mi zambullida más "formal" (por decirlo así) en 
 Dicho todo esto, mi interés inicial de aprender un poquito más de historia de la ciencia se ha tornado en tratar de enteder mi propio pensamiento (y de darle una forma más estructurada) a través del recorrido que nuestros congéneres han realizado, y realizan, en pos de esa cosa tan maravillosa que es aprender y tratar de comprender cómo son las cosas y por qué son como son.
 
 # Modus operandi
-Los apuntes del "Aprendiz Eterno" serán las notas y ensayos que yo redacte para mi propio uso, pero que hago extensible a todo aquel que quiera disponer de ellos.
+Los apuntes del "Aprendiz Eterno" serán las notas y ensayos que yo redacte para mi propio uso, pero que hago accesibles a todo aquel que quiera disponer de ellos. La idea es elaborar unos apuntes que, idealmente, puedan complementar cualquier carrera científica-técnica para dotar dicha formación de un carácter más de humanidades (aunque discripo bastante de la distinción entre las dos culturas).
 
 Lo que haré será meterme de lleno en lecturas de historia, filosofía (y su historia) y ciencia (y su historia), con el fin de construir una suerte de relato histórico que dé cuenta de todas ellas y de cómo se afectan y condicionan (y posibilitan) las unas a las otras. Este relato será escueto por necesidad (que no corto), ya que no se puede ahondar en el detalle cuando el objetivo a abarcar es tan amplio. La idea sería que para aquellos temas que me susciten mayor interés o curiosidad (potencialmente todos, pero en la práctica habré de tomar decisiones), hacer ensayos o capítulos dedicados a una reflexión de mayor profundidad. El esquema quedaría entonces así:
 * Una narración general, y por necesidad escueta, de TODO, donde
@@ -25,6 +25,8 @@ Lo que haré será meterme de lleno en lecturas de historia, filosofía (y su hi
   * una segunda parte centrada en la historia universal humana, recorriendo los diferentes períodos, contextualizando de la mejor manera posible la realidad de cada época e incluyendo, de manera general, una visión panorámica del saber y pensamiento en cada una de ellas;
   * posibles N subhistorias centradas en temáticas concretas: física, matemáticas, teoría del conocimiento,... a su vez también conscientes de su carácter expositivo y, por tanto, limitado.
 * Los diferentes ensayos específicos que traten con mayor profundidad la temática concreta que sea de interés, donde su principal función sea la de ampliar lo meramente expuesto en las narrativas previas.
+
+Un compañero de facultad siempre decía que los Ingenieros Industriales teníamos un océano de conocimientos, sólo que de un palmo de profundidad. En el fondo lo que pretendo es ampliar aún más ese océano y, en algunos casos, hacer algunas zonas un poco más profundas.
 
 # Auto-disclaimer
 Sé, y reconozco, que estoy sujeto a asumir los sesgos de los autores que lea. Que cuando, por ejemplo, estudie una cierta historia de la filosofía estaré bebiendo de las posturas sistemáticas del autor (y de aquellos en los que se basa), o que cuando lea tal texto histórico estará restringido al saber disponible hasta el momento de su redacción. 
