@@ -1,5 +1,6 @@
 # Aprendiz Eterno
 Notas, apuntes y ensayos sobre la concepción del saber y conocimiento humanos (y su historia). El punto principal es la consideración evolutiva de los mismos en todos sus aspectos, enmarcado en la complejidad de las sociedades humanas y su comprensión de la realidad a través de la historia.
+El contenido estructurado de los documentos de este repositorio puede consultarse en [El camino del Aprendiz](https://github.com/vijamoga/aprendiz_eterno/blob/aprendizEterno/El%20camino%20del%20aprendiz.md).
 
 # A modo de introducción
 Este repositorio es el reflejo de un proyecto personal que, como los propios contenidos que plantea abarcar, estará en constante evolución, redefiniendo sus objetivos, alcance y reflexiones.
